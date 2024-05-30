@@ -1,0 +1,63 @@
+body{
+    padding: 0px;
+}
+
+
+.carousel-item{
+    height: 40vw;
+}
+
+@media screen and (min-width: 768px)  {
+    .mobile-break { display: none; }
+}
+.navbar{
+    background-color: rgba(58, 58, 58, 0.199);
+   
+}
+.navfo{
+    font-weight: bold;
+    font-size: 200%;
+}
+footer{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    background-color: rgba(71, 71, 71, 0.404);
+}
+
+img{
+    margin-bottom: 10px;
+}
+.felk{
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    text-decoration: none;
+
+}
+.betuszin{
+    color: green;
+}
+.alahuz{
+    text-decoration: underline;
+}
+.betumeret{
+    font-size: 2em;
+}
+#form{
+    background-color: rgb(214, 214, 214);
+    width:28%;
+    min-width: 300px;
+    border-radius: 10px;
+    margin: auto;
+    padding:40px;
+    box-shadow: 15px 15px 10px black;
+    margin-top: 25px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+#tablazat{
+    margin-top: 30px;
+
+}
